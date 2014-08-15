@@ -1,5 +1,8 @@
 02 Git & GitHub
 ===============
+**Prerequisite:** _These exercises should be done before the this class_
+  * [01 Console Introduction](https://docs.google.com/document/d/1sLW_QYikQfAa5ijx7wuqtFaTZ80Ho9Q34tHCbNuFpTI/pub)
+  * [01 Git Install & GitHub Account](https://docs.google.com/document/d/1wzbt_mnjb49T07346TfcOuKAAHPcX1whzGCAdsEG7WU/pub)
 ## Overview ##
 
 
