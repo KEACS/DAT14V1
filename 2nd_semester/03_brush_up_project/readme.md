@@ -1,4 +1,4 @@
-# Brush-up project #
+# 03 Brush-up project #
 This week you will continue the Brush-up project you started last week in software design, and implement your design into code.   
 
 It should be straight forward, and there is not a lot of additional requirements. So take your design and turn it into a program.   
