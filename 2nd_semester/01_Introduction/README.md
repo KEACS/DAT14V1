@@ -6,10 +6,14 @@ In this class we will focus on 2 major topics:
 * What is important to remember from your 1st semester, 
 * and what will we cover in 2nd semester.    
 
+We will look into a few new topics as weel:   
+* Filestructure and Eclipse
+* 3-tier archietecture
+
 In the end we will look at what do before next class.  
 
 ## Objectives ##
-After this class you will be able to ..... 
+After this class you will have an overview of the 2 semester softwareconstruction classes. You will know where to  
  
 
 ## Materials ##
