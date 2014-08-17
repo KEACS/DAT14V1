@@ -10,7 +10,7 @@ We will look into a few new topics as weel:
 * Filestructure and Eclipse
 * Packeges and n-tier archietecture
 
-In the end we will look at what do before next class.  
+In the end we will look at what to do before next class.  
 
 ## Objectives ##
 After this class you will have an overview of the 2 semester software construction classes, where to find the materials used in the classes and where to hand in your exercises.    
