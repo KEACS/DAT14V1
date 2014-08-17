@@ -8,12 +8,13 @@ In this class we will focus on 2 major topics:
 
 We will look into a few new topics as weel:   
 * Filestructure and Eclipse
-* 3-tier archietecture
+* Packeges and n-tier archietecture
 
 In the end we will look at what do before next class.  
 
 ## Objectives ##
-After this class you will have an overview of the 2 semester softwareconstruction classes. You will know where to  
+After this class you will have an overview of the 2 semester software construction classes, where to find the materials used in the classes and where to hand in your exercises.    
+  
  
 
 ## Materials ##
