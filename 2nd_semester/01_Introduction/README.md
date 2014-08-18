@@ -22,7 +22,7 @@ You will know about File structure, packages, which you will be using in this 2n
 
 ## Materials ##
 ### Curriculum ###
-* Bjp: 1-3 & 4-10 + http://goo.gl/N4tsf7   
+* 1st semester pensum: Bjp: 1-3 & 4-10 + http://goo.gl/N4tsf7   
 
 ### Exercises ###
 * [01 - Exercise: Class, ArrayList, Polymorphy](https://docs.google.com/document/d/1LSqGKAOZOX1Qf9WICmfWP9tTWEiIwNh4szHHF5Vwbhg/pub)   
