@@ -25,5 +25,7 @@ And you will be able to work together with your group on the same files.
 ### Exercises ###
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
   * [02 Create an exercise repository on GitHub](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
-  * [02 Work in teams on the same project](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)
+  * [02 Work in teams on the same project](https://docs.google.com/document/d/1Se9fHCySKxOprviGXUTtbvP9FLwQkGWI1Gj4eII38ds/pub)   
+
+test
 
