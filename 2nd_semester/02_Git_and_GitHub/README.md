@@ -20,7 +20,8 @@ And you will be able to work together with your group on the same files
   * Git Documentation (chp 1 & 2): http://git-scm.com/doc   
 
 #### Supplementary ####
-  * Git Tutorial: http://www.vogella.com/tutorials/Git/article.html   
+  * Git Tutorial: http://www.vogella.com/tutorials/Git/article.html 
+  * Console/Terminal Cheat Sheet http://www.covingtoninnovations.com/mc/winforunix.html  
 
 #### Video Tutorials ####
   * [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=kp)  
