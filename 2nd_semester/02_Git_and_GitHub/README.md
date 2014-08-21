@@ -31,4 +31,7 @@ And you will be able to work together with your group on the same files
   * [02 Clone the class´ Repository](https://docs.google.com/document/d/1p8hfHViX0InQqDZwv5BCntVnbZQdOv-OdCyWznlZsw8/pub)
   * [02 Work in teams on the same project](https://docs.google.com/document/d/1ODbzdK4G-KSdd_Qod1SDNjyTy8uUozMmwUHuUKwbh7Y/pub)   
 
+   #### Supplementary Exercise ####
+    * [BitBucketTutorialGit_SUPPLEMENT_TO_GITHUB.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/02_Git_and_GitHub/BitBucketTutorialGit_SUPPLEMENT_TO_GITHUB.pdf)
+
 
