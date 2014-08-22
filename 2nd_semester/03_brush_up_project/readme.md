@@ -9,6 +9,6 @@ Each group will precent their project next week (Tuesday, dat14v1 - Wednesday da
 
 **The presentation of your project should contain an explenation of how you used git and Github in your group, and an evaluation on how it went (pros & cons).** 
 
-All group members also has to push the code to their own hand-in/Exercises repository on GitHub
+All group members also has to push the source code to their own hand-in/Exercises repository on GitHub.
 
 Good luck!
