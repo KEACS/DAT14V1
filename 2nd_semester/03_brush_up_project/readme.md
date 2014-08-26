@@ -7,7 +7,10 @@ Two specific SWC requirement is that you have to use **ArrayList**, and you have
 
 Each group will precent their project next week (Tuesday, dat14v1 - Wednesday dat14w) in the first lesson. Each group only have 5 minutes for the presentation, so you need to plan what you want to show.   
 
-**The presentation of your project should contain an explenation of how you used git and Github in your group, and an evaluation on how it went (pros & cons).** 
+**The presentation of your project should contain**   
+* A short demonstration of your program.
+* Show the connection between your design diagrams and your code
+* An explanation of how you used git and Github in your group, and an evaluation on how it went (pros & cons).   
 
 All group members also has to push the source code to their own hand-in/Exercises repository on GitHub.
 
