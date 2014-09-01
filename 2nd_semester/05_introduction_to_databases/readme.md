@@ -23,7 +23,7 @@ In this lesson you will get a basic understanding of:
 * MySql Workbench: http://dev.mysql.com/doc/workbench/en/wb-installing.html   
   _Download and install_
 * [MySqlinstallationProblems.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/05_introduction_to_databases/MySqlinstallationProblems.pdf)
-* [sqlsampledatabase.sql](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/05_introduction_to_databases/sampledatabase.sql)
+* [sqlsampledatabase.sql](https://github.com/KEACS/DAT14V1/blob/master/2nd_semester/05_introduction_to_databases/sampledatabase.sql)
 
 
 * ### Curriculum ###
