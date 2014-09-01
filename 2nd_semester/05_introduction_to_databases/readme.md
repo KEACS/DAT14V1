@@ -24,15 +24,15 @@ In this lesson you will get a basic understanding of:
   _Download and install_
 * [MySqlinstallationProblems.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/05_introduction_to_databases/MySqlinstallationProblems.pdf)
 
-* ### Curriculum ###
+### Curriculum ###
 Db: chp. 1  
 
   ####Supplementary####
   * MySql Workbench Tutorial (chp. 1-6): http://dev.mysql.com/doc/workbench/en/index.html   
  
 
-* ### Exercises ###
+### Exercises ###
   * 05_exercise_SELECT.txt
 
-* ### Video Tutorials ###
+### Video Tutorials ###
   * [Buckysroom.org - Introduction to Databases](https://buckysroom.org/videos.php?cat=49)
