@@ -1,4 +1,4 @@
-05 Introduction to Databases
+04 Introduction to Databases
 ===============
 **Prerequisite:** _Before this class you should have installed the [MySql Server](MySQL Community Server) and [MySql Workbench](http://dev.mysql.com/doc/workbench/en/wb-installing.html) on your computer._  
 
@@ -32,7 +32,7 @@ Db: chp. 1
  
 
 ### Exercises ###
-  * 05_exercise_SELECT.txt
+  * 04_exercise_SELECT.txt
 
 ### Video Tutorials ###
   * [Buckysroom.org - Introduction to Databases](https://buckysroom.org/videos.php?cat=49)
