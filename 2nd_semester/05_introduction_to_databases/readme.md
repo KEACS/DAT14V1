@@ -22,7 +22,7 @@ In this lesson you will get a basic understanding of:
   _Download and install_   
 * MySql Workbench: http://dev.mysql.com/doc/workbench/en/wb-installing.html   
   _Download and install_
-* [MySqlinstallationProblems.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/05_introduction_to_databases/MySqlinstallationProblems.pdf) (click on "View Raw")
+* [MySqlinstallationProblems.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/05_introduction_to_databases/MySqlinstallationProblems.pdf)
 
 
 * ### Curriculum ###
