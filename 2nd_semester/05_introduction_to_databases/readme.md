@@ -27,7 +27,7 @@ In this lesson you will get a basic understanding of:
 ### Curriculum ###
 Db: chp. 1  
 
-  ####Supplementary####
+####Supplementary####
   * MySql Workbench Tutorial (chp. 1-6): http://dev.mysql.com/doc/workbench/en/index.html   
  
 
