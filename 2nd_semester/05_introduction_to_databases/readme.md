@@ -32,7 +32,7 @@ Db: chp. 1
  
 
 * ### Exercises ###
-  * 
+  * 05_exercise_SELECT.txt
 
 * ### Video Tutorials ###
   * [Buckysroom.org - Introduction to Databases](https://buckysroom.org/videos.php?cat=49)
