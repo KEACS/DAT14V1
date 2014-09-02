@@ -1,0 +1,15 @@
+SELECT column_name FROM table_name;
+
+SELECT name FROM customers;
+
+SELECT phone FROM customers;
+
+SELECT phone, name FROM customers;
+
+SELECT * FROM customers;
+
+SELECT phone FROM customers WHERE id = 10;
+
+SELECT * FROM customers WHERE id = 10;
+
+SELECT * FROM customers WHERE name = 'Claus';
