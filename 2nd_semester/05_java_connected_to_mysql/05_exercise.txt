@@ -1,0 +1,9 @@
+05 Exercise
+
+Create a program where you can type in the Name, Last name, phone number and email of a customer and make use of the code you just have seen in class to insert into the customers database.
+
+It is ok to use the console for input, but you are welcome to make a GUI also.
+
+After input, the program should display a full list of all customers in the console.
+
+extra: change the program to show only the customer you you just have inserted.
