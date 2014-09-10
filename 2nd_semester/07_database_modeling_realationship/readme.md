@@ -20,6 +20,7 @@ After this lesson you will know:
 Db: 4.3, 4.3.1, 4.3.2, 4.3.3 (5th edition!) 
 
 ####Supplementary####
+* [Slides](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/07_database_modeling_realationship/07%20-%20Database%20Modeling_%20Relationships.pdf)
   
 ### Exercises ###
 * [07 Exercise - Database Modeling: Relationships](https://docs.google.com/document/d/11X-EmX2Bgnh4SRZqWmbv3VFkzd9Za-6cdpwfIWmoAVo/pub)
