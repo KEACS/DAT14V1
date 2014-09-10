@@ -23,5 +23,6 @@ Db: 4.3, 4.3.1, 4.3.2, 4.3.3 (5th edition!)
   
 ### Exercises ###
 * [07 Exercise - Database Modeling: Relationships](https://docs.google.com/document/d/11X-EmX2Bgnh4SRZqWmbv3VFkzd9Za-6cdpwfIWmoAVo/pub)
+* [07 Exercise - Zalando Table Relationships](https://docs.google.com/document/d/1J25X3IVNAjBx4-3j3M_MVD99KRr4eNbliJNzU6blx5c/pub)
 
 ### Video Tutorials ###
