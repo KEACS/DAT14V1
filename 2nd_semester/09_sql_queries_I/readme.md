@@ -14,6 +14,10 @@
 
 ####Supplementary####
 * http://www.w3schools.com/sql/
+
+###Video###
+* https://buckysroom.org/videos.php?cat=49
+  * _(He covers most of what we have talked about)_
   
 ### Exercises ###
 
