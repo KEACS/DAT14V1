@@ -10,7 +10,7 @@ Basically what we will do is to read, write, delete and update the data in the d
 ## Objectives ##
 When we have finished today lesson you will know:   
 * How to write an SQL command.* How to retrieve data from the database using the SELECT statement.* How to build SQL statements that:  * use the WHERE clause to retrieve rows that satisfy various conditions.  * sort query results using ORDER BY.  * use the aggregate functions of SQL.  * group data using GROUP BY.
-  * use subqueries;  * perform set operations (UNION, INTERSECT, EXCEPT).* How to perform database updates using INSERT, UPDATE, and DELETE.
+  * use subqueries;* How to perform database updates using INSERT, UPDATE, and DELETE.
 
 ## Materials ##
 
