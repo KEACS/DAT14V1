@@ -14,8 +14,8 @@ When we have finished today lesson you will know:
 
 ## Materials ##
 
-* [DreamHouse.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/09_sql_queries_dml/DreamHouse.pdf)
-* [dreamhouse.sql](https://github.com/KEACS/DAT14V1/blob/master/2nd_semester/09_sql_queries_dml/dreamhome.sql)   
+* [DreamHome_Schema.pdf](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/09_sql_queries_dml/DreamHome_Schema.pdf)
+* [dreamhouse.sql](https://github.com/KEACS/DAT14V1/blob/master/2nd_semester/09_sql_queries_dml/DreamHome.sql)   
 
 ### Curriculum ###
 * DB: 6 (SQL: Data Manipulation) 
