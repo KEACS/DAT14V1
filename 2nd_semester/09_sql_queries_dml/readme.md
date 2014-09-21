@@ -29,5 +29,5 @@ When we have finished today lesson you will know:
   * _(He covers most of what we have talked about)_
   
 ### Exercises ###
-
+* [09 Exercise SQL Queries](https://docs.google.com/document/d/1b1FFbuD4eLT-Kw5w0p-urgRGwOrYUOBS0T493l-OU78/pub)
 
