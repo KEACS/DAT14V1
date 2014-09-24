@@ -24,5 +24,5 @@
   * _(He covers most of what we have talked about)_
   
 ### Exercises ###
-* [09 Exercise SQL Queries](https://docs.google.com/document/d/1b1FFbuD4eLT-Kw5w0p-urgRGwOrYUOBS0T493l-OU78/pub)
+* [10 Exercise SQL Queries - Subqueries & Joins](https://docs.google.com/document/d/1qVRcQF2oGV9G5ghr_TgukCJT6haHmUjAZByGHs4h99I/pub)
 
