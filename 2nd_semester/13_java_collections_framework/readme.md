@@ -3,7 +3,9 @@
 
 ## Overview ##
 Today we will be working with the Java Collection Framework. You already have been using part of this Framework, when working with ArrayLists. Now we go on and work with the rest of the lists in the Collection.   
-When working with the Java Collection Framework you work with Interfaces, so this is a big part of the topic. Today we more specific look at LinkedList, Collection, List and ArrayList. In Next class we work on Sets and Maps
+When working with the Java Collection Framework you work with Interfaces, so this is a big part of the topic. Today we more specific look at LinkedList, Collection, List and ArrayList. In Next class we work on Sets and Maps.   
+
+![Java Collection Frameworl](https://github.com/KEACS/DAT14V1/raw/master/2nd_semester/13_java_collections_framework/Java%20Collection%20Framework.png)
 
 
 ## Objectives ##
