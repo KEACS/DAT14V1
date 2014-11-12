@@ -45,7 +45,7 @@ public class Hotel
 	@Override
 	public String toString()
 	{
-		return /*this.hotelNo + ", " + */this.hotelName/* + ", " + this.city*/;
+		return this.hotelName;
 	}
 
 }
